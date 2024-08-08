@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Yousef Belaili",
+        "team": "ES Tunis",
+        "nationality": "Algerian",
+        "jerseyNumber": 8,
+        "age": 30,
+    "imageUrl": "https://static.onzemondial.com/photo_article/746388/293340/1200-L-can-2021-algrie-le-gros-coup-de-gueule-du-clan-belaili-pour-son-avenir.jpg"
+  },
+
+  {
+    "name": "Riyad Mahrez",
+    "team": "Al Ahli",
+    "nationality": "Algerian",
+    "jerseyNumber": 7,
+    "age": 32,
+    "imageUrl": "https://static.onzemondial.com/8/2023/11/photo_article/859142/346387/1200-L-manchester-city-c-est-vraiment-moi-qui-ai-dcid-de-partir-riyad-mahrez-voque-les-raisons-de-son-dpart.jpg"
+  },
+  {
+    "name": "Berahimi Yacine",
+    "team": "Al-Gharafa Sports Club",
+    "nationality": "Algerian",
+    "jerseyNumber": 8,
+    "age": 27,
+    "imageUrl": "https://sportnewsafrica.com/wp-content/uploads/2023/12/Yacine-Brahimi-Algerie.jpg"
+},
+  {
+    "name": "Saïd Benrahma",
+    "team": "Olympique Lyonnais",
+    "nationality": "Algerian",
+    "jerseyNumber": 17,
+    "age": 28,
+    "imageUrl": "https://cdn1.hammers.news/uploads/25/2021/01/GettyImages-1296742495.jpg"
+}
+]
